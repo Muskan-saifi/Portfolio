@@ -36,12 +36,12 @@ const projects = [
   },{
     title: "My Portfolio",
     description:
-      "A library management interface for viewing books, tracking availability, issuing and returning books, and managing records.",
+      "A personal portfolio website to showcase projects and skills.",
     src: "portfolio.jpg",
-    link: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1200&q=80",
+    link: "https://s0.wp.com/mshots/v1/https%3A%2F%2Fportfolio-rust-three-64.vercel.app%2F?w=1200&h=800",
     color: "#ed649e",
-    githubLink: "https://github.com/Muskan-saifi/Library-Management",
-    liveLink: "https://library-management-gamma-three.vercel.app/",
+    githubLink: "https://github.com/Muskan-saifi/Portfolio",
+    liveLink: "https://portfolio-rust-three-64.vercel.app/",
   },
 ];
 
